@@ -1,1 +1,2 @@
-# for seeing this site page click https://imrajnish.github.io/
+# For seeing this traveling home page site page 
+# click https://rajnishgeek.github.io/TravelingHomePage/
